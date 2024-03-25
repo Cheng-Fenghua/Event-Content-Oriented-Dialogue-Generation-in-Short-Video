@@ -22,3 +22,7 @@ Understanding complex events from different modalities, associating to external 
 # Dataset Comparison
 
 We provide comparison between SportsVD and other multi-modal dialogue dataset
+
+<div align=center>
+<img src="SportsVD_comparison.png"/>
+</div>
