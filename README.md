@@ -26,3 +26,7 @@ We provide comparison between SportsVD and other multi-modal dialogue dataset
 <div align=center>
 <img src="SportsVD_comparison.png"/>
 </div>
+
+# Dataset Download
+
+We make SportsVD public for further research. You can download SportsVD via <ref=https://drive.google.com/drive/folders/11Ap8IIiyckvIXZUX2GDixr00KAdfSaAd?usp=sharing>. 
