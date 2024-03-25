@@ -18,3 +18,7 @@ Understanding complex events from different modalities, associating to external 
   <p> Results by VCD and other baselines </p>
 </figcaption>
 </div>
+
+# Dataset Comparison
+
+We provide comparison between SportsVD and other multi-modal dialogue dataset
